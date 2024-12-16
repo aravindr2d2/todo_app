@@ -1,0 +1,29 @@
+body {
+  background: #352f5b;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 23px;
+}
+
+h1 {
+    text-align: center;
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    background: #423a6f;
+    color: #fff;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
